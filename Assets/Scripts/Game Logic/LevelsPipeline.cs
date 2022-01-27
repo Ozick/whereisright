@@ -7,6 +7,7 @@ namespace whereisright
     {
         [SerializeField]
         private UnityEvent _onRestart;
+
         [SerializeField]
         private UnityEvent _onEndLevel;
 
